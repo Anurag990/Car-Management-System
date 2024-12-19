@@ -1,0 +1,11 @@
+com\CarManagementSystem\TrainingMug\TrainingMugApplication.class
+com\CarManagementSystem\TrainingMug\dto\CarDTO.class
+com\CarManagementSystem\TrainingMug\exceptions\ResourceNotFoundException.class
+com\CarManagementSystem\TrainingMug\services\CarService.class
+com\CarManagementSystem\TrainingMug\advices\ApiError.class
+com\CarManagementSystem\TrainingMug\repositories\CarRepository.class
+com\CarManagementSystem\TrainingMug\configs\MapperConfig.class
+com\CarManagementSystem\TrainingMug\controllers\CarController.class
+com\CarManagementSystem\TrainingMug\advices\GlobalExceptionHandler.class
+com\CarManagementSystem\TrainingMug\controllers\HealthCheckController.class
+com\CarManagementSystem\TrainingMug\entities\CarEntity.class

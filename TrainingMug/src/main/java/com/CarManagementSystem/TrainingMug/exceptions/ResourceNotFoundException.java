@@ -1,0 +1,1 @@
+package com.CarManagementSystem.TrainingMug.exceptions;public class ResourceNotFoundException extends  RuntimeException{    public ResourceNotFoundException(String message)    {        super(message);    }}
