@@ -27,7 +27,7 @@ The **Car Management System** is a RESTful web service built using **Spring Boot
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/Anurag990/CarManagementSystem.git
+git clone https://github.com/Anurag990/Car-Management-System.git
 2. Setup MySQL Database
 Ensure you have a MySQL database running, and create a database named carmanagementsystem.
 
