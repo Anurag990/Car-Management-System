@@ -33,7 +33,7 @@ Ensure you have a MySQL database running, and create a database named carmanagem
 
 You can use the following database credentials in application.properties:
 
-properties
+**properties
 Copy code
 spring.datasource.url=jdbc:mysql://localhost:3306/carmanagementsystem
 spring.datasource.username=root
@@ -45,7 +45,7 @@ Navigate to the project directory and run the Spring Boot application using Mave
 
 For Maven:
 
-bash
+```bash
 Copy code
 mvn spring-boot:run
 4. Access API Documentation
